@@ -1,0 +1,105 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta
+      name="description"
+      content="Your trusted travel agency for affordable, hassle-free, and unforgettable journeys."
+    >
+    <title>ABC Travel Agency</title>
+  </head>
+
+  <body>
+    <main>
+      <h1>ABC Travel Agency</h1>
+
+      <p>
+        We are a trusted
+        <a href="https://www.freecodecamp.org/learn" target="_blank">travel agency</a>
+        dedicated to creating smooth, affordable, and memorable travel experiences for every customer.
+        From bookings to complete trip planning, we take care of everything so you can travel stress-free.
+      </p>
+
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img
+            src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg"
+            alt="Beautiful sea view"
+          >
+        </a>
+        <figcaption>
+          <em>Explore. Experience. Remember.</em>
+        </figcaption>
+      </figure>
+
+      <section>
+        <h2>Packages</h2>
+
+        <p>
+          Our tour packages offer well-planned travel with comfort and unforgettable experiences.
+          Everything is arranged for a smooth, stress-free journey.
+        </p>
+
+        <ul>
+          <li>
+            <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+          </li>
+          <li>
+            <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+          </li>
+        </ul>
+
+        <h2>Top Itineraries</h2>
+
+        <ul>
+          <li>
+            <a href="https://www.freecodecamp.org/learn" target="_blank">
+              <strong>Group Travels</strong>
+            </a>
+            – Planned tours for multiple travelers with shared transport, guided sightseeing,
+            and <em>budget-friendly pricing</em>.
+          </li>
+          <li>
+            <a href="https://www.freecodecamp.org/learn" target="_blank">
+              <strong>Private Tours</strong>
+            </a>
+            – Customized trips designed exclusively for individuals, couples, or families with
+            <em>flexible schedules and personalized services</em>.
+          </li>
+        </ul>
+
+        <button>BOOK NOW</button>
+
+        <figure>
+          <a href="https://www.freecodecamp.org/learn" target="_blank">
+            <img
+              src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg"
+              alt="Historic Colosseum in Rome"
+            >
+          </a>
+          <figcaption>
+            <em>Signature Tour Packages</em>
+          </figcaption>
+        </figure>
+
+        <figure>
+          <a href="https://www.freecodecamp.org/learn" target="_blank">
+            <img
+              src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg"
+              alt="Snowy Alps mountains"
+            >
+          </a>
+          <figcaption>
+            <em>Unforgettable Journeys</em>
+          </figcaption>
+        </figure>
+      </section>
+    </main>
+  </body>
+</html>
+
+
+** end of index.html **
+
